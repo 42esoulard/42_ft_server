@@ -29,5 +29,6 @@ Install a complete web server, using a deployment technology named Docker.
 
 - Open port url (replace 12345 by port indicated by docker ps):
   curl localhost:12345
-	
+
+
 Written in january 2020.
