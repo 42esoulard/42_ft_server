@@ -31,4 +31,7 @@ Install a complete web server, using a deployment technology named Docker.
   curl localhost:12345
 
 
+**NOTES**
+- Autoindex should ALWAYS be deactivated for security reasons. https://www.netsparker.com/blog/web-security/disable-directory-listing-web-servers/
+
 Written in january 2020.
